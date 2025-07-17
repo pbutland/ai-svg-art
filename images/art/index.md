@@ -1,6 +1,6 @@
 # Art Images
 
-Welcome to the art images collection. Browse the subcategories below:
+Welcome to the "art" images collection. Browse the subcategories below:
 
 - [Abstract](abstract/index.md)
 - [Mondrian](mondrian/index.md)
